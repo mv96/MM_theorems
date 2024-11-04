@@ -225,6 +225,21 @@ to apply transformation on generated patches refer this [notebook](finetuning_vi
 
 This project is part of the [Theoremkb](https://github.com/PierreSenellart/theoremkb) Project and related to it's extension.
 
+If you find this work useful, feel free to cite us:
+
+```bibtex
+@misc{mishra2024modularmultimodalmachinelearning,
+      title={Modular Multimodal Machine Learning for Extraction of Theorems and Proofs in Long Scientific Documents (Extended Version)}, 
+      author={Shrey Mishra and Antoine Gauquier and Pierre Senellart},
+      year={2024},
+      eprint={2307.09047},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2307.09047}, 
+}
+```
+
+
 ## FAQ
 
 #### Q1) Can I use these models to fine-tune on a similar task?
